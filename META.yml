@@ -1,0 +1,22 @@
+---
+abstract: 'JIRA style parsing of duration'
+author:
+  - 'BjE<oslash>rn-Olav Strand <bo@startsiden.no>'
+distribution_type: module
+generated_by: 'Module::Install version 0.79'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: DateTime-Format-Duration-DurationString
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Any::Moose: 0
+  Carp: 0
+  DateTime::Duration: 0
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
